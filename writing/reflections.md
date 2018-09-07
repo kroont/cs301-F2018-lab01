@@ -1,5 +1,9 @@
-### Please do not forget to add your name and the date
+# Laboratory Session 1
 
-### Name: 
-### Date: 7 Sept 2018
+## Name: Trevor J. Kroon
+## Date: 7 Sept 2018
 
+### Data and Data Abuse Case Study:
+#### [Report: Police Across The U.S. Abuse Confidential Databases](https://minnesota.cbslocal.com/2016/09/28/report-police-across-the-u-s-abuse-confidential-databases/)
+
+Attached above was posted by CBS, where it was found that there have been many breaches of the use of data.  It has been noted that there have been three-hundred-twenty-five found instances where Police Officers, used the database not for their job, but for their own personal motivations.  While this is a great tool for them to use when looking throughout the known criminal network, it also has data on individuals that are not directly involved in crime.  Considering that Police Officers are noted as highly moral individuals, it goes to show how corrupting data can be.  Having the answer at one's finger tips, can lead to the corruption of these morally sound individuals.  That being said, not all Police Officers abide by these rules, and instead follow their own moral compasses.  This is additionally a huge misuse of data because these perpetrators have used this powerful system to answer questions outside of the confines of their job.  In some cases, the Police Officers have also committed identity theft, because they have all of the information needed to have this be successful. The information contained in the database is their SSN (Social Security Network), which in American culture is something that is incredibly private.  It's the governments way of checking to make sure that the individual is in fact who they are.  Therefore these individuals have lost all of their credibility, and will have a lot of problems with finding a job after having this on their record.  That being said, this system does help a lot of Americans, through helping the Police Officers use the information to apprehend criminals.  Citizens could look at this instance and say that there should be a better system created.  Ways to do this could include, but are not limited to, a marker being put on the logged in person for all of their searches.  This is a simple system of checks, where if they are logged in, it sends a notification to the Captain of the precinct, or an individual with the same authority.  Then if the marker does not make sense for them to be looking at, the perpetrator can be dealt with. 
